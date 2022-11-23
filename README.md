@@ -1,24 +1,32 @@
-# README
+# HELLO RAILS REACT
+An introduction to setting up rails and react as one project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##  Technologies used
+- Ruby on Rails
+- React
+- Redux state management
+- React-router-dom
 
-Things you may want to cover:
 
-* Ruby version
+## Authors
 
-* System dependencies
+👤 **Abby Nyakara**
 
-* Configuration
+- GitHub:
+  - [AbbyNyakara](https://github.com/AbbyNyakara)
 
-* Database creation
+## 🤝 Contributing
 
-* Database initialization
+Contributions, issues, and feature requests are welcome!
 
-* How to run the test suite
+Feel free to check the [issues page](../../issues/).
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
 
-* Deployment instructions
+Give a ⭐️ if you liked this project!
 
-* ...
+## Acknowledgments
+
+- Microverse
+- Coding Partners
+- Code Reviewers
